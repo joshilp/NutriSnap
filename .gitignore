@@ -1,0 +1,15 @@
+*.zip
+food41/
+tmp/
+old_models/
+old_models_tflite/
+output_old/
+kerasModel/
+
+# !134.jpg
+# !model.h5
+# !model.json
+# !NutriSnap.py
+# !NutriSnap.txt
+# !NutriSnapTest.py
+# !.gitignore
